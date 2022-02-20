@@ -1,6 +1,8 @@
-# Hi there, I'm Nilesh👋 
+# Hi there👋 
 
-## I'm a Competetive Programmer and Web Developer!!
+## 
+. I am Nilesh Kumar, a programming enthusiast.
+. I am currently learning Web Development.
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
