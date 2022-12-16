@@ -5,7 +5,7 @@
 <!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=nileshky1&color=brightgreen">
 <img alt="Night Coding" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right"/> -->
 * I am Nilesh, a programming enthusiast.
-* I am currently exploring the field of Web Development.
+* I am a Web Developer - MERN.
 * I like participating in Competitive Programming contests.
 
 ## Some languages and tools I'm familiar with
