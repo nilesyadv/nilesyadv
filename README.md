@@ -4,9 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/nileshky1?label=Follow&style=social)
 <!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=nileshky1&color=brightgreen">
 <img alt="Night Coding" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right"/> -->
-* I am Nilesh, a programming enthusiast.
-* I am a Web Developer - MERN.
-* I like participating in Competitive Programming contests.
+* I am Nilesh, a Software Engineer.
+* I also like participating in Competitive Programming contests.
 
 ## Some languages and tools I'm familiar with
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
